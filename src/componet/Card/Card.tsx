@@ -1,4 +1,4 @@
-import {Line, Plane, Text} from '@react-three/drei';
+import {Plane, Text} from '@react-three/drei';
 import {useFrame} from '@react-three/fiber';
 import React, {useEffect, useRef, useState} from 'react';
 import THREE from 'three';
