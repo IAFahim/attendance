@@ -36,7 +36,7 @@ const Card = () => {
             <Plane ref={ref} args={[2, 2.5]} position={[0, 1, 0]} onClick={handleClick} scale={isClicked ? 1.618 : 1}>
                 <meshBasicMaterial color={isClicked ? "#37b24d" : "#51cf66"}/>
                 <Text color="black" anchorX="center" anchorY="middle" scale={[5,5,5]} position={[0,-1.5,.5]}>
-                    Boo scared?
+                    Boo! scared?
                 </Text>
             </Plane>
 
