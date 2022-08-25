@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/attendance/static/css/main.0294cbcd.css",
-    "main.js": "/attendance/static/js/main.396dbbf4.js",
+    "main.css": "/attendance/static/css/main.acae5327.css",
+    "main.js": "/attendance/static/js/main.fada96f9.js",
     "static/media/nsudc-logo.png": "/attendance/static/media/nsudc-logo.3f161d979d74a983e778.png",
     "index.html": "/attendance/index.html",
-    "main.0294cbcd.css.map": "/attendance/static/css/main.0294cbcd.css.map",
-    "main.396dbbf4.js.map": "/attendance/static/js/main.396dbbf4.js.map"
+    "main.acae5327.css.map": "/attendance/static/css/main.acae5327.css.map",
+    "main.fada96f9.js.map": "/attendance/static/js/main.fada96f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0294cbcd.css",
-    "static/js/main.396dbbf4.js"
+    "static/css/main.acae5327.css",
+    "static/js/main.fada96f9.js"
   ]
 }
