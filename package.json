@@ -51,7 +51,7 @@
     ]
   },
   "devDependencies": {
-    "@types/three": "0.143.1",
+    "@types/three": "0.143.2",
     "gh-pages": "4.0.0"
   }
 }
