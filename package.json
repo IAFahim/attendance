@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@react-three/drei": "9.25.3",
-    "@react-three/fiber": "8.6.2",
+    "@react-three/fiber": "8.7.0",
     "@react-three/flex": "1.0.0",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "13.4.0",
